@@ -88,6 +88,7 @@ ipch/
 *.vspx
 *.sap
 h6.txt
+.gitignore
 # TFS 2012 Local Workspace
 $tf/
 
