@@ -243,3 +243,4 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 /h1.txt
+/h2.txt
