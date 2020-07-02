@@ -24,5 +24,9 @@ namespace GitTest
         {
             InitializeComponent();
         }
+        private string sss(int a)
+        {
+            return "";
+        }
     }
 }
