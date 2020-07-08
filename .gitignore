@@ -244,3 +244,4 @@ ModelManifest.xml
 .fake/
 /h1.txt
 /h2.txt
+*.docx
